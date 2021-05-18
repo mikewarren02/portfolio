@@ -686,7 +686,20 @@ button:focus {
   line-height: 42px;
   text-align: center;
 }
+.haha {
+  padding-left: 465px;
+  padding-bottom: 10px;
+}
 
+
+.fonticons {
+  position: relative;
+  padding-left: 465px;
+  font-size: 70px;
+
+  color : brown !important;
+  font-family: monospace;
+}
 /*===========================
         12.RESPONSIVE
 =============================*/
