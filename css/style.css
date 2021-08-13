@@ -696,13 +696,13 @@ button:focus {
   position: relative;
   padding-left: 465px;
   font-size: 70px;
-
   color : brown !important;
   font-family: monospace;
 }
 /*===========================
         12.RESPONSIVE
 =============================*/
+
 
 @media (min-width: 200px) and (max-width: 768px) {
   .custom-nav {
@@ -717,6 +717,9 @@ button:focus {
     font-size: 32px;
     border: none;
   }
+
+  
+
   .custom-nav .logo .logo-dark {
     display: inline-block;
   }
@@ -754,4 +757,5 @@ button:focus {
   .home-bg .curv-img {
     bottom: -5px;
   }
+
 }
